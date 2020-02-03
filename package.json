@@ -15,7 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "json-server": "^0.15.0",
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "eslint": "^6.8.0"
   },
   "devDependencies": {
     "date-fns": "^2.9.0",
@@ -26,7 +27,15 @@
     "eslint": "^6.8.0"
   },
   "bin": {
-    "random-names": "./bin/global.js"
+    "random-names": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alver23/random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alver23/random-names/issues"
+  },
+  "homepage": "https://github.com/Alver23/random-names#readme"
 }
