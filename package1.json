@@ -1,4 +1,4 @@
-{
+:wq{
   "name": "npm-js",
   "version": "0.1.0",
   "description": "Construir un paquete para node",
