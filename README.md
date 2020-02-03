@@ -111,6 +111,10 @@ Actualizar todas las dependencies vulnerables
 npm audit fix
 ```
 
+Establecer una version
+```
+npm version patch, minor or major
+```
 
 
 # Contributing
