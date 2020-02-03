@@ -1,10 +1,11 @@
-:wq{
+{
   "name": "npm-js",
   "version": "0.1.0",
   "description": "Construir un paquete para node",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm set": "npm set init.author.email \"viga.23@hotmail.com\" &&  npm set init.author.name \"Alver Grisales\" && npm set init.license \"MIT\""
   },
   "keywords": [
     "javascript",
